@@ -5,7 +5,7 @@
 Library for easy graph building for yed graph editor. The program builds a graph, which is then collected into .graphml</a>.
 
 Example:
-````c++
+````d
 import yed;
 import std.stdio;
 import std.file;
