@@ -1,0 +1,7 @@
+{
+    "name": "yed",
+    "description": "A library for generating .graphml files",
+    "authors": ["kingmang"],
+    "dependencies": {},
+    "license": "MIT"
+} 
